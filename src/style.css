@@ -52,6 +52,10 @@ footer {
   display: flex;
   justify-content: space-between;
 }
+#description {
+  color: #ff6289;
+  font-weight: bold;
+}
 .weather-app-city {
   margin: 0;
   font-size: 38px;
@@ -71,17 +75,17 @@ footer {
   display: flex;
 }
 .weather-app-icon {
-  font-size: 49px;
+  font-size: 46px;
   margin-top: 22px;
 }
 .weather-app-temperature {
   font-size: 88px;
-  margin-left: 10px;
   font-weight: bold;
+  margin-left: 10px;
   color: #ff6289;
 }
 .weather-app-unit {
-  margin-top: 16px;
+  margin-top: 6px;
   font-size: 24px;
   color: #ff6289;
 }
